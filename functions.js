@@ -44,4 +44,9 @@ function gradeCalculator (grade){
 }
 
 console.log(gradeCalculator(53));
+console.log(gradeCalculator(43)); //reusable code
+console.log(gradeCalculator(99));
+console.log(gradeCalculator(78));
+
+
 
